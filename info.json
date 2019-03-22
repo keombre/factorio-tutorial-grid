@@ -7,5 +7,5 @@
   "homepage": "https://github.com/keombre/factorio-tutorial-grid",
   "description": "Creates world preset with only tutorial grid tile in it.",
   "factorio_version": "0.17",
-  "dependencies": []
+  "dependencies": ["base >= 0.17.0", "?creative-mod >= 1.0.4"]
 }
