@@ -11,7 +11,7 @@ local warning_item = {
 		unit =
 		{
 			count = 1,
-			ingredients = {{"science-pack-1", 1}},
+			ingredients = {{"automation-science-pack", 1}},
 			time = 5
 		},
 		order = "z-z"

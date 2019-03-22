@@ -1,11 +1,11 @@
 {
   "name": "tutorial-grid",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "Tutorial Grid Map",
   "author": "keombre",
   "contact": "",
   "homepage": "https://github.com/keombre/factorio-tutorial-grid",
   "description": "Creates world preset with only tutorial grid tile in it.",
-  "factorio_version": "0.16",
+  "factorio_version": "0.17",
   "dependencies": []
 }
